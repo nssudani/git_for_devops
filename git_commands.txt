@@ -1,0 +1,16 @@
+   1 try { . "c:\Users\win10\AppData\Local\Programs\Microsoft VS Code\r... 
+   2 git status
+   3 git status
+   4 git add testing.py
+   5 git status
+   6 git  rm --cached
+   7 git  rm --cached testing.py
+   8 git status
+   9 git add testing.py
+  10 git commit -m "add testing.py"
+  11 git status
+  12 rm testing.py
+  13 restore testing.py
+  14 restor testing.py
+  15 git restore testing.py
+  16 git status
